@@ -1,5 +1,4 @@
-# Mermaid-Diagram
-
+```mermaid
 flowchart TD
   root["Agora website /en/"]
   root --> group_home["Home (1)"]
